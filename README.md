@@ -2,6 +2,7 @@
 
 - 🔭 I’am currently working at home with projects on engineering and learning code.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON.
+- 🌱 Through javascript, I try to learn react.js and node.
 
 <!--
 **abnerlourenco/abnerlourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
